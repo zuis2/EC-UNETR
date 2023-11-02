@@ -1,0 +1,16 @@
+{
+    "model_name":"EC_UNETR_SFUC",      //DL, UNet, UNet_2Plus, UNet_3Plus, UNETR, SwinUNETR, UNETR_PP,RG_UNETR
+    "datasets_path":"/media/zuis/Data/datasets/DL/",
+    "dataset_name":"BF5_Amor",      //BF5_FCC, BF3.2_FCC, BF5_Amor,
+    "batch_size":1,
+    "gpu_id":"",
+    "start_epoch":0,
+    "N_epoch":100,    // epoch
+    "resume_state":"",//"/media/zuis/Data/workspace/volumedenoising/pretrain/UNet_3Plus_BF5_FCC_06171137/model.pth",//"/media/zuis/Data/workspace/volumedenoising/experiments/DL_BF5_FCC144_05072117/model.pth", //"path of resume state"
+    "output_file":"/media/zuis/Data/datasets/DL/Actual/Pt_input_1_real_intepolation_zero_padding.mat",
+    "output":false,
+    "train":true,
+    "test":false,
+    "save_folder":"./experiments/",
+    "block_size":48
+}
