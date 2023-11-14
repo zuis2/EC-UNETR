@@ -7,7 +7,7 @@ Source code of  "Ensemble Cross UNet Transformers for Augmentation of Atomic Ele
 
 ## Dataset
 
-### Download datasets from Baidu disk:
+### Download datasets from Baidu net disk:
     dataset link:  https://pan.baidu.com/s/1yjDck2m8ss31ifwhIVSyUw 
     key: kikx 
 
@@ -83,7 +83,7 @@ config/
     python main.py
 ```
 
-### Download pre-trained model from Baidu disk:
+### Download pre-trained model from Baidu net disk:
     dataset link:  https://pan.baidu.com/s/1Hglt_UgZWpKwesAyHzvd6A 
     key: qme9
 
