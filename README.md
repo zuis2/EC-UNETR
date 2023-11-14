@@ -3,7 +3,7 @@
 Source code of  "Ensemble Cross UNet Transformers for Augmentation of Atomic Electron Tomography"
 [Project] https://github.com/zuis2/EC-UNETR
 
-- We used the monai package, you can find it in "thirdparty" folder, or install it by "pip install monai"
+- We used the monai package, you can find and unzip it in "thirdparty" folder, or install it by "pip install monai"
 
 ## Dataset
 
